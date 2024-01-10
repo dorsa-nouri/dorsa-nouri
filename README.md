@@ -17,6 +17,7 @@ I'm passionate about creating beautiful and responsive web applications. As a Fr
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" width="130px" height="70px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4uNn1Cgt-RuWltaQODLrHFR51fsI1gWuQQ&usqp=CAU"  width="130px" height="70px" />
 <img src="https://meant4.com/blog/pinia-js-vs-vuex-for-vue-js/assets/pinia-vuex.png" width="150px" height="70px" />
 <img src="https://logowik.com/content/uploads/images/git6963.jpg" width="100px" height="70px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/487px-Vitejs-logo.svg.png" width="70px" height="70px" />
 
 
 also i'm a junior in : 
