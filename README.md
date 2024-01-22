@@ -22,7 +22,7 @@ I'm passionate about creating beautiful and responsive web applications. As a Fr
 
 also i'm a junior in : 
 
- <img src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png" width="100px" height="50px" /><img src="https://logowik.com/content/uploads/images/python.jpg" width="100px" height="60px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hdKaY7_kb4GDLmfVNtYymT0dAmN5AHG57kUO6rEaOHalhcw1IOYxG9YFvGFbbcDFWf0&usqp=CAU" width="100px" height="60px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgarN4PHwi-Y_DPbL0_nxNTyEYRGTunrl_JJb4vHv6Vg0ty6Ys-DhEoMB0pU9xMop0F0&usqp=CAU" width="100px" height="60px" /> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="60px" height="60px" /> <img src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png" width="100px" height="60px" /><img src="https://logowik.com/content/uploads/images/python.jpg" width="100px" height="60px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hdKaY7_kb4GDLmfVNtYymT0dAmN5AHG57kUO6rEaOHalhcw1IOYxG9YFvGFbbcDFWf0&usqp=CAU" width="100px" height="60px" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgarN4PHwi-Y_DPbL0_nxNTyEYRGTunrl_JJb4vHv6Vg0ty6Ys-DhEoMB0pU9xMop0F0&usqp=CAU" width="100px" height="60px" /> 
 
 
  # Contact me 📲
