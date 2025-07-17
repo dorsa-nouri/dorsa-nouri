@@ -2,7 +2,7 @@
 welcome to my GitHub Page 🚀
 
 # About me 👀
-As a front-end developer with +4 years of experience, I specialize in creating and managing
+As a front-end developer with +6 years of experience, I specialize in creating and managing
 responsive web applications and components while adhering to best practices. I prioritize
 teamwork, communication, and delivering robust, secure, modular, and maintainable code. With a
 track record of completing more than 7 projects, including 3 large-scale ones, I have expertise in
